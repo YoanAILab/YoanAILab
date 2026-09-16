@@ -4,7 +4,14 @@
 
 我是一名从软件工程、模型工程逐步走向企业 AI 系统与解决方案交付的工程师。我的技术路径从大模型训练、压缩与推理部署出发，延伸到 RAG、LLM Serving、AI Workflow、生成式 AI 工作流，以及面向真实业务场景的系统设计与项目落地。
 
-我关注一套 AI 系统如何从需求澄清、方案设计与 PoC 验证，走到部署、监控、交付与持续迭代。
+我关注的不只是“模型能不能跑”，也关注一套 AI 系统能否从需求澄清、方案设计与 PoC 验证，稳定地走到部署、监控、交付与持续迭代。
+
+## Start Here
+
+- [🏗️ Enterprise AI Solution Portfolio](https://github.com/YoanAILab/enterprise-ai-solution-portfolio) — 企业 AI 参考架构、能力设计与项目交付方法
+- [✍️ CSDN 技术博客｜YoanAILab](https://blog.csdn.net/qq_36633599) — AI 工程、系统架构与项目实践
+- [🧭 AI 工程与企业 AI 技术导航](https://docs.qq.com/doc/DV3RtTG90cXBHa01T) — 文章、项目与能力地图总入口
+- [📝 知乎｜AI 工程师成长记录](https://www.zhihu.com/people/mrgaoogy)
 
 ## What I Focus On
 
@@ -24,32 +31,22 @@
 | Deployment & Platform | Docker, Kubernetes, Linux, NVIDIA GPU / CUDA |
 | Observability | Prometheus, Grafana |
 
-## Selected Engineering Projects
+## Featured Work
 
-以下公开项目记录了我的模型工程基础；企业 AI 与系统架构方向的技术思考见下方博客与技术导航。
+### [Enterprise AI Solution Portfolio](https://github.com/YoanAILab/enterprise-ai-solution-portfolio)
 
-### [GPT-2 Engineering Project Suite](https://github.com/YoanAILab/gpt2-project-suite-summary)
+独立设计的企业 AI 解决方案参考架构，展示如何从业务问题出发，完成能力拆分、架构决策、技术选型与交付治理。内容覆盖 AI 能力底座、服务运营智能、企业知识智能和生成式内容服务，并明确说明脱敏与公开边界。
 
-模型训练、ONNX / TensorRT 推理加速、蒸馏、剪枝、量化、Kubernetes 部署与多进程推理的工程实践集合。
+## Model Engineering Foundation
 
-### [GPT-2 TensorRT Deployment](https://github.com/YoanAILab/gpt2-trt-deploy)
+- [GPT-2 Engineering Project Suite](https://github.com/YoanAILab/gpt2-project-suite-summary) — 模型训练、ONNX / TensorRT 推理、蒸馏、剪枝、量化、Kubernetes 部署与分布式推理的工程实践总览
+- [GPT-2 TensorRT Deployment](https://github.com/YoanAILab/gpt2-trt-deploy) — PyTorch → ONNX → TensorRT，并结合 Flask、Go 与 Docker 完成服务化部署
 
-覆盖 PyTorch → ONNX → TensorRT 的推理优化链路，并结合 Flask、Go 与 Docker 完成服务化部署。
-
-### [Quantized Model Deployment on Kubernetes](https://github.com/YoanAILab/k8s_deploy_quant)
-
-将量化模型封装为服务，在 Minikube 本地集群中实践 Kubernetes 部署、服务暴露与自动扩缩容。
-
-### [Distributed Inference Demo](https://github.com/YoanAILab/dist_infer_demo)
-
-基于 torchrun 的多进程推理示例，探索 GPU / CPU 设备策略与分布式运行方式。
+这些仓库保留为模型工程基础，不再占据首页主叙事；它们与企业 AI 作品集共同构成“从模型到系统、从 Demo 到交付”的能力路径。
 
 ## Writing & Knowledge Base
 
-- [CSDN 技术博客｜YoanAILab](https://blog.csdn.net/qq_36633599)
-- [YoanAILab 技术导航页](https://docs.qq.com/doc/DV3RtTG90cXBHa01T)
-
-内容聚焦：企业 AI 项目落地、AI 系统分层、RAG、Dify、LLM Serving、推理架构、可观测性与工程踩坑复盘。
+近期内容聚焦：企业 AI 项目落地、AI 系统分层、RAG、Dify、LLM Serving、推理架构、可观测性与工程踩坑复盘。博客与技术导航已放在首页首屏的 **Start Here**。
 
 ## Current Direction
 
@@ -57,4 +54,4 @@
 
 > Model Engineering → AI Platform → AI Solution Architecture → Enterprise & Overseas AI Delivery
 
-企业与海外项目经验以脱敏后的技术总结和方法论分享；不公开客户代码、内部数据或未公开交付资料。
+企业与海外项目经历仅以脱敏后的经验总结和方法论呈现；公开仓库不包含任何客户代码、内部数据或未公开交付资料。
