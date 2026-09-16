@@ -11,7 +11,6 @@
 - [🏗️ Enterprise AI Solution Portfolio](https://github.com/YoanAILab/enterprise-ai-solution-portfolio) — 企业 AI 参考架构、能力设计与项目交付方法
 - [✍️ CSDN 技术博客｜YoanAILab](https://blog.csdn.net/qq_36633599) — AI 工程、系统架构与项目实践
 - [🧭 AI 工程与企业 AI 技术导航](https://docs.qq.com/doc/DV3RtTG90cXBHa01T) — 文章、项目与能力地图总入口
-- [📝 知乎｜AI 工程师成长记录](https://www.zhihu.com/people/mrgaoogy)
 
 ## What I Focus On
 
@@ -41,12 +40,6 @@
 
 - [GPT-2 Engineering Project Suite](https://github.com/YoanAILab/gpt2-project-suite-summary) — 模型训练、ONNX / TensorRT 推理、蒸馏、剪枝、量化、Kubernetes 部署与分布式推理的工程实践总览
 - [GPT-2 TensorRT Deployment](https://github.com/YoanAILab/gpt2-trt-deploy) — PyTorch → ONNX → TensorRT，并结合 Flask、Go 与 Docker 完成服务化部署
-
-这些仓库保留为模型工程基础，不再占据首页主叙事；它们与企业 AI 作品集共同构成“从模型到系统、从 Demo 到交付”的能力路径。
-
-## Writing & Knowledge Base
-
-近期内容聚焦：企业 AI 项目落地、AI 系统分层、RAG、Dify、LLM Serving、推理架构、可观测性与工程踩坑复盘。博客与技术导航已放在首页首屏的 **Start Here**。
 
 ## Current Direction
 
