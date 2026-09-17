@@ -8,9 +8,9 @@
 
 ## Start Here
 
-- [🏗️ Enterprise AI Solution Portfolio](https://github.com/YoanAILab/enterprise-ai-solution-portfolio) — 企业 AI 参考架构、能力设计与项目交付方法
 - [✍️ CSDN 技术博客｜YoanAILab](https://blog.csdn.net/qq_36633599) — AI 工程、系统架构与项目实践
 - [🧭 AI 工程与企业 AI 技术导航](https://docs.qq.com/doc/DV3RtTG90cXBHa01T) — 文章、项目与能力地图总入口
+- [🏗️ Enterprise AI Solution Portfolio](https://github.com/YoanAILab/enterprise-ai-solution-portfolio) — 企业 AI 参考架构、能力设计与项目交付方法
 
 ## What I Focus On
 
